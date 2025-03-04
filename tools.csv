@@ -1,0 +1,4 @@
+tools, version, cpe
+Keycloak, 25.0.4, cpe:2.3:a:redhat:keycloak:25.0.4:*:*:*:*:*:*:*
+Nexus, 3.76.1, cpe:2.3:a:sonatype:nexus_repository_manager:3.76.1:*:*:*:*:*:*:*
+Jenkins, 2.479, cpe:2.3:a:jenkins:jenkins:2.479:*:*:*:-:*:*:*
