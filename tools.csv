@@ -21,3 +21,5 @@ Defectdojo, 2.42.2, cpe:2.3:a:owasp:defectdojo:2.42.2:*:*:*:*:*:*:*
 DependencyTrack, 4.12.1, cpe:2.3:a:owasp:dependency-track:4.12.1:*:*:*:*:*:*:*
 Docker, 24.0.6, cpe:2.3:a:docker:docker:24.0.6:*:*:*:-:*:*:*
 Helm, 3.12.3, cpe:2.3:a:helm:helm:3.12.3:*:*:*:*:*:*:*
+Nginx, 1.25.2, cpe:2.3:a:f5:nginx:1.25.2:*:*:*:*:*:*:*
+Maven, 3.9.5, cpe:2.3:a:apache:maven:3.9.5:*:*:*:*:*:*:*
